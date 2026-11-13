@@ -7,6 +7,13 @@ I enjoy learning new concepts, exploring programming, and turning ideas into pra
 
 ---
 
+### Education
+
+B.Tech in CSE (AI & Data Science)  
+RK University, Rajkot
+
+---
+
 ### Technologies I'm Exploring
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
