@@ -1,28 +1,38 @@
+
 # Hello, I'm Koushik Babu 👋
 
-Engineering student with a passion for technology and software development.
+Engineering student with an interest in technology and software development.
 
-I enjoy exploring new concepts, learning programming, and turning ideas into practical solutions.
+I enjoy learning new concepts, exploring programming, and turning ideas into practical solutions.
 
-### Technologies I'm Learning
-- C
-- Java
-- Python
-- Data Structures & Algorithms
+---
+
+### Technologies I'm Exploring
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+**Currently Learning:** Data Structures & Algorithms
+
+---
 
 ### Featured Project
-- **VoxDesk** – A Multilingual AI College Helpdesk.
+
+**[VoxDesk](https://github.com/Koushik-Babu/VoxDesk)**
+
+A multilingual AI-powered college helpdesk designed to make information more accessible.
+
+---
 
 ### Currently Focused On
+
 - Strengthening programming fundamentals.
 - Improving problem-solving skills.
 - Exploring software development.
-
-### A Little About Me
-- 🌱 Always curious to learn something new.
-- 💻 Interested in building meaningful projects.
-- 🚀 Believer in continuous growth.
+- Building practical projects.
 
 ---
 
 *Learning with curiosity. Growing with consistency.*
+
